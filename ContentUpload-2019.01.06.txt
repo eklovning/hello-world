@@ -1,0 +1,2 @@
+This is an uploaded file, just to see how uploading works.
+Adding a new doc with some comments, seeing how github and bitbucket work when pushing to both.
